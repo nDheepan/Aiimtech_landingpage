@@ -1,0 +1,369 @@
+{
+    "pages": {
+        "our_services": [
+            {
+                "type": "component",
+                "name": "columncomponent",
+                "chilren": [
+                    {
+                        "type": "component",
+                        "name": "button_title_para",
+                        "varients":{
+                            "class": ""
+                        },
+                        "elements": {
+                            "title": "Innovative Ideas",
+                            "text": [
+                                "We pride ourselves on providing you with an innovative design for your website that includes all of the latest features coupled with a creative atmosphere to suit your customer's needs.",
+                                "First of all, we will discuss what you want, and then bring some new ideas to the table that will enhance your customers expriences while easing the processing of the business follow up."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "component",
+                        "name": "column_image",
+                        "varients":{
+                            "class": ""
+                        },
+                        "elements": {
+                            "image_url": ""
+                        }
+                    }, 
+                    {
+                        "type": "component",
+                        "name": "column_image",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "image_url": ""
+                        }
+                    }, 
+                    {
+                        "type": "component",
+                        "name": "title_boxes",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "title": "Best Quality Design",
+                            "text": [
+                                "Fully responsive so content looks great",
+                                "Awesome sliders to showcase content",
+                                "Customized module options",
+                                "Amazing shortcodes loaded with options",
+                                "Easy to create pages"
+                            ]
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "component",
+                "name": "columncomponent",
+                "varients": {
+                            "class": ""
+                        },
+                "chilren": [
+                    {
+                        "type": "component",
+                        "name": "button_title_para",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "title": "Your Code",
+                            "text": [
+                                "In our website development, we use the most current programs that are industry standard. And if you need some modification of the software to suit your needs, our team is experienced at making those changes to your website. When all of the coding work is completed, and your site is operating well, know that you can make changes easily.",
+                                "We realize that since business operations are not static, there is a need for modification of many of the areas of your site. However please do not hesitate to contact us if you would prefer that our staff make those changes for you. Please view the responses from our current clients to assure yourself of our expertise. We base our success on your growth."
+                            ]
+                        }
+                    }, 
+                    {
+                        "type": "component",
+                        "name": "column_image",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "image_url": ""
+                        }
+                    }, 
+                    {
+                        "type": "component",
+                        "name": "column_image",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "image_url": ""
+                        }
+                    }, 
+                    {
+                        "type": "component",
+                        "name": "title_progressbar",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "title": "Our Skills",
+                            "progressbar": {
+                                "Speed Optimized" : "80%",
+                                "Creative Design" : "92%",
+                                "Responsive" : "98%",
+                                "Security" : "99%"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "component",
+                "name": "columncomponent",
+                "varients": {
+                            "class": ""
+                        },
+                "chilren": [
+                    {
+                        "type": "component",
+                        "name": "button_title_para",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "title": "Professional Players",
+                            "text": [
+                                "Our approach to website design is through teamwork, and your opinion will be kept paramount in the process. However, we will take every opportunity to acquaint you with cutting -edge options that can automize some of the financial and marketing procedures you may be currently completing tediously. These approaches will free up your staff to better serve their customers.",
+                                "The teamwork that exists in our organization assures you of a quality website. Since each of our staff has in-depth knowledge and skills in specific areas, you can expect that your site will encompass the latest approaches that will result not only in a more sophisticated presence on the internet but an increase in the volume of your business."
+                            ]
+                        }
+                    }, 
+                    {
+                        "type": "component",
+                        "name": "column_image",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "image_url": ""
+                        }
+                    }, 
+                    {
+                        "type": "component",
+                        "name": "column_image",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "image_url": ""
+                        }
+                    }, 
+                    {
+                        "type": "component",
+                        "name": "title_progressbar",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "title": "Our Skills",
+                            "progressbar": {
+                                "PHP / My SQL" : "99%",
+                                "Wordpress" : "96%",
+                                "Testing" : "0%",
+                                "CRM / ERP" : "98%",
+                                "Mobile Apps" : "92%"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "component",
+                "name": "columncomponent",
+                "varients": {
+                            "class": ""
+                        },
+                "chilren": [
+                    {
+                        "type": "component",
+                        "name": "button_title_para",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "title": "Quick Support",
+                            "text": [
+                                "Our support team is available 24/7 to respond to your questions, work on technical issues or to connect you to the right person in our organization to solve any queries you may have. They are very knowledgeable about all of our products and will strive to meet your every need.",
+                                "As we receive software updates, we are committed to making the adjustments in your site to bring it up to date without any cost to you."
+                            ]
+                        }
+                    }, 
+                    {
+                        "type": "component",
+                        "name": "column_image",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "image_url": ""
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "component",
+                "name": "columncomponent",
+                "varients": {
+                            "class": ""
+                        },
+                "chilren": [
+                    {
+                        "type": "component",
+                        "name": "column_image",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "image_url": ""
+                        }
+                    },
+                    {
+                        "type": "component",
+                        "name": "TitleWithAccordion",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "title": "What's We Do ?",
+                            "accordion": {
+                                "Social Applications" : "Social apps are one of the best ways that can promote your business brand.",
+                                "CRM / ERP Softwares" : "Our team listens to your situation to provide you with the software answers you need.",
+                                "Wordpress"           : "It is so popular that there are many plugins and modules explicitly built for cms websites.",
+                                "Web Design"          : "Pixel perfect design that fits any device without trouble.",
+                                "Mobile Application"  : "Apps can improve the running of your business in so many areas.",
+                                "API Integrate"       : "To help automate your business’s process using API's Zoho, enevo, marketo etc"
+                            }
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "component",
+                "name": "columncomponent",
+                "varients": {
+                            "class": ""
+                        },
+                "chilren": [
+                    {
+                        "type": "component",
+                        "name": "button_title_para",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "title": "Successive Solutions",
+                            "text" : [
+                                "At Aiimtech we pride ourselves on meeting our deadlines. Since website development is our primary focus , our expertise allows us to work efficiently and quickly. By examining your current site, listening to your descriptions of what you would like to see happen , and interviewing key staff to understand your processes, we can meet your needs with the most current solutionsvery quickly."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "component",
+                        "name": "column_image",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "image_url": ""
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "component",
+                "name": "rowcomponent",
+                "varients": {
+                            "class": ""
+                        },
+                "chilren": [
+                    {
+                        "type": "component",
+                        "name": "button_title_para",
+                        "varients": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "button": {
+                                "type": "component",
+                                "name": "button",
+                                "class": "button-4",
+                                "label": "Blog / Article"
+                            },
+                            "title"       : "Latest News and Update",
+                            "text"        : [
+                                "We provide with effective and friendly support to answer all user's questions and resolve any issue."
+                            ]
+                        }
+                    },
+                    {
+                        "type": "component",
+                        "name": "SliderComponent",
+                        "varients": {
+                                    "class": ""
+                                },
+                        "chilren": [
+                            {
+                                "type": "component",
+                                "name": "ServiceSlider",
+                                "varients": {
+                                    "class": ""
+                                },
+                                "chilren": [
+                                    {
+                                        "type": "component",
+                                        "name": "CardWithImage",
+                                        "elements":[
+                                            {
+                                            "image_url" : "",
+                                            "date" : "1 Feb 2024",
+                                            "card_tags": [
+                                                "Laravel 11"
+                                            ],
+                                            "title": "How to search Wordpress support forums plugin?",
+                                            "text" : "The WordPress Support Forums plug-ins are an amazing source of any information",
+                                            "caption_text" : "Read more"
+                                        },
+                                        {
+                                            "image_url" : "",
+                                            "date" : "3 Feb 2024",
+                                            "card_tags": [
+                                                "Node JS"
+                                            ],
+                                            "title": "How to search Wordpress support forums plugin?",
+                                            "text" : "WordPress is one of the most powerful CMS around. A content management system is a web application",
+                                            "caption_text" : "Read more"
+                                        },
+                                        {
+                                            "image_url" : "",
+                                            "date" : "5 Feb 2024",
+                                            "card_tags": [
+                                                "Wordpress"
+                                            ],
+                                            "title": "How to search Wordpress support forums plugin?",
+                                            "text" : "An interesting, well-designed and smartly developed website appears a big chance to entice customers",
+                                            "caption_text" : "Read more"
+                                        }]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "type": "markup",
+                "content": "<h1>Some Mark up here!</h1>"
+            }
+        ]
+    }
+}

@@ -1,0 +1,161 @@
+{
+    "pages": {
+        "home": [
+            {
+                "type": "component",
+                "name": "columncomponent",
+                "variant": {
+                    "class": "",
+                    "position": "right",
+                    "bg_colour": ""
+                },
+                "children": [
+                    {
+                        "type": "component",
+                        "name": "button_with_para",
+                        "variant": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "button": {
+                                "type": "component",
+                                "name": "button",
+                                "class": "button-4",
+                                "label": "About Aiimtech"
+                            },
+                            "title": "Focus on Quality and Creativity",
+                            "label": "We are famous for Website Design and Development.",
+                            "text":"AiimTech was established in 2008. Beginning at its inception, we have had one primary focus: Website Design and Development. From day one we felt that collaboration with our clients was the key to our success."
+                        }
+                    },
+                    {
+                        "type": "component",
+                        "name": "column_image",
+                        "variant": {
+                            "class": "h-auto w-[50%] sm:w-[100%]"
+                        },
+                        "elements": {
+                            "image_url": "assets//images/section.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "component",
+                "name": "columncomponent",
+                "variant": {
+                    "class": "bg-gray-100",
+                    "position": "left"
+                },
+                "children": [
+                    {
+                        "type": "component",
+                        "name": "our_experts_section",
+                        "variant": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "button": {
+                                "type": "component",
+                                "name": "button",
+                                "class": "button-4",
+                                "label": "What Our Experts Do?"
+                            },
+                            "title": "What Our Experts Do",
+                            "points": [
+                                {
+                                    "heading": "HealthCare",
+                                    "content": "At Aiimtech Software we have a team of experts who are skilled at healthcare software development and customized hospital application."
+                                },
+                                {
+                                    "heading": "Google Cloud",
+                                    "content": "Our Team has developed a Google cloud expertise to assist you. No longer will you struggle with patches and updates."
+                                },
+                                {
+                                    "heading": "Amazon Web Services",
+                                    "content": "We have more experience in AWS and are happy to assist you with Amazon, you pay for only the services you use."
+                                },
+                                {
+                                    "heading": "E-Commerce",
+                                    "content": "We assure that our developers use the most cutting-edge technology to build eCommerce with high security."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "component",
+                        "name": "column_image",
+                        "variant": {
+                            "class": "h-auto w-[70%] sm:w-[100%]"
+                        },
+                        "elements": {
+                            "image_url": "assets/images/our_expert.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "component",
+                "name": "rowcomponent",
+                "variant": {
+                    "class": "bg-gray-100",
+                    "position": "right"
+                },
+                "children": [
+                    {
+                        "type": "component",
+                        "name": "our_experts_section",
+                        "variant": {
+                            "class": ""
+                        },
+                        "elements": {
+                            "button": {
+                                "type": "component",
+                                "name": "button",
+                                "variant": {
+                                    "class": "button-4"
+                                },
+                                "elements": {
+                                    "button_name": "What Our Experts Do?"
+                                }
+                            },
+                            "title": "What Our Experts Do",
+                            "points": [
+                                {
+                                    "heading": "HealthCare",
+                                    "content": "At Aiimtech Software we have a team of experts who are skilled at healthcare software development and customized hospital application."
+                                },
+                                {
+                                    "heading": "Google Cloud",
+                                    "content": "Our Team has developed a Google cloud expertise to assist you. No longer will you struggle with patches and updates."
+                                },
+                                {
+                                    "heading": "Amazon Web Services",
+                                    "content": "We have more experience in AWS and are happy to assist you with Amazon, you pay for only the services you use."
+                                },
+                                {
+                                    "heading": "E-Commerce",
+                                    "content": "We assure that our developers use the most cutting-edge technology to build eCommerce with high security."
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "type": "component",
+                        "name": "column_image",
+                        "variant": {
+                            "class": "h-auto w-[70%] sm:w-[100%]"
+                        },
+                        "elements": {
+                            "image_url": "/images/our_expert.png"
+                        }
+                    }
+                ]
+            },
+            {
+                "type": "markup",
+                "content": "<h1>Some Mark up here!</h1>"
+            }
+        ]
+    }
+}

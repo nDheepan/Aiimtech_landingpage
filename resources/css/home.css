@@ -1,0 +1,151 @@
+.animate-bounce {
+    animation: bounce 8s infinite;
+  }
+  @keyframes bounce {
+    0%, 100% {
+    transform: translateY(-6%);
+    animation-timing-function: cubic-bezier(0.8, 0, 1, 1);
+    }
+    60% {
+    transform: translateY(0);
+    animation-timing-function: cubic-bezier(0, 0, 0.2, 1);
+    }
+    }
+/* Background Banner Image  */
+
+  @layer utilities {
+    .sm-bi1 {
+      @apply  bg-no-repeat bg-cover w-screen h-screen;
+    }
+    .md-bi1 {
+      @apply bg-no-repeat bg-cover h-screen;
+    }
+    .lg-bi1 {
+      @apply bg-no-repeat bg-cover h-screen;
+    }
+    .xl-bi1 {
+      @apply bg-cover  w-full bg-no-repeat;
+    }
+    .x2l-bi1 {
+      @apply bg-cover w-full bg-no-repeat;
+    }
+    .x3l-bi1 {
+      @apply bg-cover  w-full bg-no-repeat;
+    }
+    .x4l-bi1 {
+      @apply bg-contain h-[100vh] w-full bg-no-repeat;
+    }
+  } 
+
+/* Background Banner Objects bo:Banner Objects - */
+
+@layer utilities {
+  .sm-bo {
+    @apply  bg-no-repeat bg-cover  h-screen;
+  }
+  .md-bo {
+    @apply bg-no-repeat bg-cover h-screen;
+  }
+  .lg-bo {  
+    @apply  w-[83%] bg-contain bg-no-repeat bg-center absolute left-[10%] top-[10%];
+  }
+  .xl-bo {
+    @apply  w-[83%] bg-contain bg-no-repeat bg-center absolute left-[13%] top-[16%];
+  }
+  .x2l-bo {
+    @apply  w-[80%] bg-contain bg-no-repeat bg-center absolute left-[14%] top-[19%] ;
+  }
+  .x3l-bo {
+    @apply  w-[80%] bg-contain bg-no-repeat bg-center absolute left-[15%] top-[18%];
+  }
+  .x4l-bo {
+    @apply h-[70%] w-[90%] bg-contain bg-no-repeat bg-center absolute left-[7%] top-[19%] ;
+  }
+} 
+
+/* Background Banner Objects bo:Banner Objects - */
+
+  @layer utilities {
+    .sm-size {
+      @apply bg-none bg-no-repeat;
+    }
+    .md-size {
+      @apply hidden bg-none bg-no-repeat;
+    }
+    .lg-size {
+      @apply bg-no-repeat bg-cover h-screen;
+    }
+    .xl-size {
+      @apply bg-contain h-[60%] w-[20%] bg-no-repeat absolute top-[54%] left-[65%];
+    }
+    .x2l-size {
+      @apply bg-contain h-[86%] w-[30%] bg-no-repeat absolute top-[34%] left-[64%];
+    }
+    .x3l-size {
+      @apply bg-contain h-[75%] w-[29%] bg-no-repeat absolute top-[43%] left-[62%];
+    }
+    .x4l-size {
+      @apply bg-contain h-[80%] w-[34%] bg-no-repeat absolute top-[39%] left-[62%];
+    }
+  } 
+
+   /* Background Banner logo bm  */
+
+  @layer utilities {
+    .sm-bm {
+      @apply bg-none bg-no-repeat;
+    }
+    .md-bm {
+      @apply bg-none bg-no-repeat;
+    }
+    .lg-bm {
+      @apply bg-contain h-[58%] w-[15%] bg-no-repeat  top-[56%] left-[62%];
+    }
+    .xl-bm {
+      @apply bg-contain h-[60%] w-[20%] bg-no-repeat  top-[54%] left-[65%];
+    }
+    .x2l-bm {
+      @apply bg-contain h-[7%] w-[20%] bg-no-repeat   top-[48%] left-[50%];
+    }
+    .x3l-bm {
+      @apply bg-contain bg-no-repeat  top-[1%] left-[8%];
+    }
+    .x4l-bm {
+      @apply bg-contain  bg-no-repeat  top-[1%] left-[10%];
+    }
+  } 
+  a {
+    display: inline-block;
+    margin: 1% 4% 0% 0%;
+  }
+
+  /* h-[80%] w-[34%]    h-[7%] w-[20%]*/
+
+  .custom-search {
+    position: relative;
+    width: 100%;
+  }
+  .custom-search-input {
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 12px;
+    padding: 10px 100px 10px 20px; 
+    line-height: 2;
+    box-sizing: border-box;
+    outline: none;
+    color:black
+  }
+  .custom-search-botton {
+    position: absolute;
+    right: 3px; 
+    top: 3px;
+    bottom: 3px;
+    border: 0;
+    background: #09a9d1;
+    color: #fff;
+    outline: none;
+    margin: 0;
+    padding: 0 10px;
+    border-radius: 12px;
+    z-index: 2;
+  }
